@@ -7,25 +7,33 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 import warnings
 import time
+import random
 warnings.filterwarnings('ignore')
 
-def get_headers():
+def get_rotating_headers():
+    user_agents = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605.1.15',
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Edge/120.0.0.0',
+        'Mozilla/5.0 (X11; Linux x86_64) Chrome/120.0.0.0 Safari/537.36'
+    ]
     return {
         'Accept': '*/*',
         'Accept-Encoding': 'gzip, deflate, br',
         'Accept-Language': 'en-US,en;q=0.9',
         'Connection': 'keep-alive',
         'Host': 'www.redfin.com',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36',
-        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        'User-Agent': random.choice(user_agents),
+        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
         'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"Windows"',
         'Sec-Fetch-Dest': 'empty',
         'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'same-origin',
-        'Referer': 'https://www.redfin.com/city/5155/CO/Denver',
-        'Cookie': 'RF_BROWSER_ID=Mozilla/5.0'
+        'Sec-Fetch-Site': 'same-origin'
     }
+
+def exponential_backoff(retry_count):
+    wait_time = min(300, (2 ** retry_count) + random.uniform(0, 1))
+    time.sleep(wait_time)
 
 
 def get_housing_data():
@@ -38,25 +46,34 @@ def get_housing_data():
         ('Aurora', '17357'),
         ('Naperville', '17459'),
         ('Joliet', '17428'),
-        ('Evanston', '17413')
+        ('Evanston', '17413'),
+        ('Oak Park', '17478'),
+        ('Schaumburg', '17499'),
+        ('Skokie', '17503'),
+        ('Des Plaines', '17394'),
+        ('Arlington Heights', '17358')
     ]
     
     property_types = ['', 'house', 'condo', 'townhouse']
     price_ranges = [
-        (0, 300000),
-        (300000, 600000),
-        (600000, 1000000),
-        (1000000, 2000000),
-        (2000000, 5000000)
+        (0, 200000),
+        (200000, 400000),
+        (400000, 600000),
+        (600000, 800000),
+        (800000, 1000000),
+        (1000000, 1500000),
+        (1500000, 2000000),
+        (2000000, 3000000),
+        (3000000, 5000000)
     ]
     
-    # Number of pages to fetch for each combination
-    pages_per_search = 3
+    pages_per_search = 5
     max_retries = 3
     total_collected = 0
     
     for city, region_id in cities:
         print(f"\nCollecting data for {city}...")
+        time.sleep(random.uniform(2, 4))  # Random delay between cities
         
         for prop_type in property_types:
             for min_price, max_price in price_ranges:
@@ -65,7 +82,7 @@ def get_housing_data():
                     params = {
                         'al': '1',
                         'market': city.lower(),
-                        'num_homes': '100',  # Increased from 50
+                        'num_homes': '100',
                         'ord': 'redfin-recommended-asc',
                         'page_number': str(page),
                         'region_id': region_id,
@@ -80,22 +97,25 @@ def get_housing_data():
                     
                     if prop_type:
                         params['property_type'] = prop_type
+                        
+                    download_url = f"{url}?{requests.compat.urlencode(params)}"
                     
-                    # Retry logic
                     for retry in range(max_retries):
                         try:
                             print(f"\nFetching {city} data (Page {page}):")
                             print(f"Property type: {prop_type or 'all'}")
                             print(f"Price range: ${min_price:,}-${max_price:,}")
                             
+                            headers = get_rotating_headers()
                             session = requests.Session()
+                            session.headers.update(headers)
+                            
                             main_page = f"https://www.redfin.com/city/{region_id}/IL/{city}"
-                            session.get(main_page, headers=get_headers(), verify=False)
+                            session.get(main_page, verify=False)
                             
-                            time.sleep(2)  # Reduced delay but added more strategic pauses
+                            exponential_backoff(retry)
                             
-                            download_url = f"{url}?{requests.compat.urlencode(params)}"
-                            response = session.get(download_url, headers=get_headers(), verify=False)
+                            response = session.get(download_url, verify=False)
                             
                             if response.status_code == 200:
                                 content = response.text
@@ -105,45 +125,44 @@ def get_housing_data():
                                 try:
                                     df = pd.read_csv(StringIO(content))
                                     if not df.empty:
-                                        # Remove rows where all values are NaN
+                                        if 'ADDRESS' not in df.columns:
+                                            print("Invalid data format received")
+                                            continue
                                         df = df.dropna(how='all')
                                         if len(df) > 0:
                                             all_properties.append(df)
                                             total_collected += len(df)
                                             print(f"Successfully collected {len(df)} properties")
                                             print(f"Running total: {total_collected}")
-                                            break  # Success, break retry loop
-                                except Exception as e:
-                                    print(f"Error parsing CSV: {e}")
+                                            break
+                                except pd.errors.EmptyDataError:
+                                    print("Empty CSV received")
                                     continue
-                            
+                                except Exception as e:
+                                    print(f"Error parsing CSV: {str(e)}")
+                                    continue
                             else:
                                 print(f"Failed to fetch data. Status code: {response.status_code}")
                                 
                         except Exception as e:
                             print(f"Error on attempt {retry + 1}: {e}")
-                            if retry < max_retries - 1:
-                                time.sleep(5)  # Wait longer between retries
-                                continue
-                            break
+                            exponential_backoff(retry)
+                            continue
                     
-                    time.sleep(3)  # Wait between pages
+                    time.sleep(random.uniform(1, 3))  # Random delay between pages
                 
-                time.sleep(5)  # Wait between price ranges
+                time.sleep(random.uniform(2, 4))  # Random delay between price ranges
     
     if all_properties:
-        # Combine all dataframes
         combined_df = pd.concat(all_properties, ignore_index=True)
         print(f"\nTotal properties before deduplication: {len(combined_df)}")
         
-        # Remove duplicates based on address and basic features
         combined_df = combined_df.drop_duplicates(
             subset=['ADDRESS', 'PRICE', 'BEDS', 'BATHS', 'SQUARE FEET'],
             keep='first'
         )
         print(f"Total unique properties after deduplication: {len(combined_df)}")
         
-        # Show sample of data
         print("\nSample of collected data:")
         print(combined_df[['ADDRESS', 'PRICE', 'BEDS', 'BATHS', 'SQUARE FEET']].head())
         
@@ -151,6 +170,7 @@ def get_housing_data():
     else:
         print("No data collected")
         return None
+
 
 
 

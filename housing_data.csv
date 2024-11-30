@@ -1,45 +1,60 @@
 Price,Bedrooms,Bathrooms,SquareFeet,YearBuilt,PropertyType,ZipCode
-489900.0,3.0,2.5,2757.0,2024.0,Unknown,84655.0
+329900.0,3.0,2.0,2187.0,2012.0,Unknown,84655.0
 250000.0,4.0,2.5,2003.0,1973.0,Single Family Residential,36421.0
 469900.0,4.0,2.0,2536.0,2006.0,Single Family Residential,36420.0
+155000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+120000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+189900.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+113900.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+375000.0,3.0,2.5,2206.0,2021.0,Single Family Residential,84655.0
+379990.0,3.0,2.5,2205.0,2024.0,Townhouse,84655.0
+359000.0,4.0,3.5,2260.0,2013.0,Townhouse,84655.0
 298000.0,3.0,2.0,1243.0,2019.0,Condo/Co-op,84655.0
 299000.0,3.0,2.0,1225.0,2019.0,Condo/Co-op,84655.0
-155000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-255000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-120000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-189900.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-252000.0,1.0,1.0,773.0,2023.0,Condo/Co-op,84655.0
-300000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
+379990.0,3.0,2.5,2205.0,2024.0,Townhouse,84655.0
+355000.0,3.0,2.0,1399.0,2022.0,Townhouse,84655.0
+357900.0,3.0,2.0,1399.0,2022.0,Townhouse,84655.0
+395000.0,4.0,3.5,2653.0,2020.0,Townhouse,84655.0
+342000.0,3.0,3.0,1841.0,2020.0,Townhouse,84655.0
+255000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+339900.0,4.0,3.5,1923.0,2018.0,Townhouse,84655.0
+249000.0,1.0,1.0,773.0,2023.0,Condo/Co-op,84655.0
+360000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+389900.0,3.0,2.5,2187.0,2022.0,Townhouse,84655.0
+300000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+397300.0,3.0,2.5,2291.0,2022.0,Townhouse,84655.0
 269000.0,2.0,1.0,953.0,2023.0,Condo/Co-op,84655.0
-119900.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-579900.0,4.0,3.0,3619.0,2024.0,Single Family Residential,84655.0
-429900.0,4.0,2.5,2276.0,2021.0,Single Family Residential,84655.0
-460000.0,4.0,2.0,2200.0,1881.0,Single Family Residential,84655.0
-504900.0,3.0,2.5,2530.0,2024.0,Single Family Residential,84655.0
-359000.0,4.0,3.5,2260.0,2013.0,Townhouse,84655.0
-499000.0,4.0,2.5,3108.0,2017.0,Single Family Residential,84655.0
+379990.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
+369990.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
+371950.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
+369990.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
+364900.0,3.0,2.0,1573.0,2012.0,Townhouse,84655.0
+369990.0,3.0,2.5,2187.0,2012.0,Townhouse,84655.0
+575000.0,5.0,3.5,2720.0,2006.0,Single Family Residential,84655.0
+509900.0,3.0,2.0,2817.0,2024.0,Single Family Residential,84655.0
+540000.0,4.0,3.5,3218.0,2005.0,Single Family Residential,84655.0
+424900.0,3.0,2.5,2376.0,2024.0,Single Family Residential,84655.0
+404900.0,3.0,2.0,2203.0,2024.0,Single Family Residential,84655.0
+409900.0,3.0,2.0,2203.0,2024.0,Single Family Residential,84655.0
+540000.0,5.0,3.0,2627.0,2012.0,Single Family Residential,84655.0
+499900.0,3.0,2.5,2530.0,2024.0,Single Family Residential,84655.0
+499900.0,3.0,2.5,2530.0,2024.0,Single Family Residential,84655.0
+519900.0,4.0,2.5,2846.0,2024.0,Single Family Residential,84655.0
+429000.0,4.0,2.0,2200.0,1881.0,Single Family Residential,84655.0
 499900.0,3.0,2.5,2696.0,2020.0,Single Family Residential,84655.0
-379900.0,3.0,2.5,2209.0,2021.0,Townhouse,84655.0
 444900.0,3.0,2.5,2376.0,2024.0,Single Family Residential,84655.0
 444900.0,3.0,2.5,2376.0,2024.0,Single Family Residential,84655.0
 444900.0,3.0,2.5,2376.0,2024.0,Single Family Residential,84655.0
 444900.0,3.0,2.5,2376.0,2024.0,Single Family Residential,84655.0
-504900.0,3.0,2.5,2530.0,2024.0,Single Family Residential,84655.0
 527500.0,5.0,3.0,2708.0,1997.0,Single Family Residential,84655.0
 555000.0,5.0,3.0,3118.0,2007.0,Single Family Residential,84655.0
-450000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-450000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-355000.0,3.0,2.0,1399.0,2022.0,Townhouse,84655.0
-524900.0,4.0,2.5,2846.0,2024.0,Single Family Residential,84655.0
+450000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+450000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
 524900.0,3.0,2.0,3714.0,2024.0,Single Family Residential,84655.0
 549900.0,4.0,2.5,3535.0,2024.0,Single Family Residential,84655.0
-376490.0,3.0,2.5,2205.0,2024.0,Townhouse,84655.0
 489900.0,3.0,2.5,2331.0,2021.0,Single Family Residential,84655.0
-357900.0,3.0,2.0,1399.0,2022.0,Townhouse,84655.0
 425000.0,3.0,2.0,1404.0,1999.0,Single Family Residential,84655.0
-405000.0,4.0,3.5,2653.0,2020.0,Townhouse,84655.0
-342000.0,3.0,3.0,1841.0,2020.0,Townhouse,84655.0
-485000.0,4.0,3.0,2176.0,2007.0,Single Family Residential,84655.0
+482500.0,4.0,3.0,2176.0,2007.0,Single Family Residential,84655.0
 549999.0,5.0,3.5,3431.0,2016.0,Single Family Residential,84655.0
 464900.0,3.0,2.0,2303.0,2024.0,Single Family Residential,84655.0
 524900.0,3.0,2.5,3218.0,2024.0,Single Family Residential,84655.0
@@ -64,30 +79,29 @@ Price,Bedrooms,Bathrooms,SquareFeet,YearBuilt,PropertyType,ZipCode
 534900.0,4.0,2.5,3473.0,2024.0,Single Family Residential,84655.0
 514900.0,3.0,2.5,2753.0,2024.0,Single Family Residential,84655.0
 475000.0,4.0,2.5,2331.0,2022.0,Single Family Residential,84655.0
-339900.0,4.0,3.5,1923.0,2018.0,Townhouse,84655.0
 475000.0,3.0,2.5,2364.0,2021.0,Single Family Residential,84655.0
-360000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-389900.0,3.0,2.5,2187.0,2022.0,Townhouse,84655.0
-397500.0,3.0,2.5,2291.0,2022.0,Townhouse,84655.0
 588900.0,3.0,2.0,1697.0,2024.0,Single Family Residential,84655.0
 549900.0,3.0,2.5,3218.0,2024.0,Single Family Residential,84655.0
-599900.0,5.0,3.0,3347.0,2015.0,Single Family Residential,84655.0
 550000.0,4.0,2.5,3278.0,2024.0,Single Family Residential,84655.0
 544900.0,3.0,2.0,3376.0,2024.0,Single Family Residential,84655.0
 594900.0,3.0,2.0,1697.0,2024.0,Single Family Residential,84655.0
-473250.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-379900.0,3.0,2.5,2338.0,2023.0,Townhouse,84655.0
-599990.0,4.0,2.5,3733.0,2024.0,Single Family Residential,84655.0
-379990.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
-599990.0,4.0,2.5,3733.0,2024.0,Single Family Residential,84655.0
-588900.0,3.0,2.0,1697.0,2024.0,Single Family Residential,84655.0
-379990.0,3.0,2.5,2187.0,2024.0,Townhouse,84655.0
-895000.0,5.0,3.0,4099.0,2006.0,Single Family Residential,84655.0
-629000.0,3.0,2.5,3329.0,2021.0,Single Family Residential,84655.0
+473250.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+594990.0,4.0,2.5,3733.0,2024.0,Single Family Residential,84655.0
+500000.0,4.0,2.0,3636.0,2012.0,Single Family Residential,84655.0
+535000.0,4.0,2.5,4236.0,2012.0,Single Family Residential,84655.0
+550000.0,4.0,2.5,3218.0,2012.0,Single Family Residential,84655.0
+515000.0,3.0,2.0,3418.0,2012.0,Single Family Residential,84655.0
+445000.0,3.0,2.0,2203.0,2012.0,Single Family Residential,84655.0
+465000.0,3.0,2.0,2734.0,2012.0,Single Family Residential,84655.0
+480000.0,3.0,2.0,2880.0,2012.0,Single Family Residential,84655.0
+495000.0,3.0,2.0,3454.0,2012.0,Single Family Residential,84655.0
+594990.0,4.0,2.5,3733.0,2012.0,Single Family Residential,84655.0
+588900.0,3.0,2.0,1697.0,2012.0,Single Family Residential,84655.0
+655900.0,6.0,3.5,3517.0,2024.0,Single Family Residential,84655.0
+624900.0,3.0,2.5,3329.0,2021.0,Single Family Residential,84655.0
 667000.0,6.0,4.0,3115.0,2024.0,Single Family Residential,84655.0
 664500.0,6.0,3.0,3593.0,2024.0,Single Family Residential,84655.0
-630000.0,6.0,4.0,3115.0,2024.0,Single Family Residential,84655.0
-639000.0,3.0,2.5,2169.0,2024.0,Townhouse,84655.0
+629000.0,3.0,2.5,2169.0,2024.0,Townhouse,84655.0
 710900.0,3.0,2.0,1846.0,2024.0,Single Family Residential,84655.0
 739000.0,7.0,4.5,4410.0,2021.0,Single Family Residential,84655.0
 609400.0,3.0,2.0,3725.0,2024.0,Single Family Residential,84655.0
@@ -99,75 +113,391 @@ Price,Bedrooms,Bathrooms,SquareFeet,YearBuilt,PropertyType,ZipCode
 718900.0,5.0,3.0,4124.0,2024.0,Single Family Residential,84655.0
 607900.0,3.0,2.0,3402.0,2024.0,Single Family Residential,84655.0
 635000.0,6.0,3.0,4909.0,2018.0,Single Family Residential,84655.0
-772000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
+772000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
 610000.0,4.0,3.5,3416.0,2021.0,Single Family Residential,84655.0
 676900.0,4.0,3.0,3404.0,2024.0,Single Family Residential,84655.0
 632900.0,3.0,2.0,3746.0,2024.0,Single Family Residential,84655.0
 727900.0,4.0,3.0,4011.0,2024.0,Single Family Residential,84655.0
 731900.0,5.0,3.0,4124.0,2024.0,Single Family Residential,84655.0
 645900.0,3.0,2.0,3746.0,2024.0,Single Family Residential,84655.0
-655900.0,6.0,3.5,3517.0,2024.0,Single Family Residential,84655.0
 728900.0,5.0,3.0,4124.0,2024.0,Single Family Residential,84655.0
 626900.0,3.0,2.0,3746.0,2024.0,Single Family Residential,84655.0
 601900.0,3.0,2.0,3402.0,2024.0,Single Family Residential,84655.0
-724990.0,4.0,2.5,4497.0,2024.0,Single Family Residential,84655.0
-749990.0,4.0,2.5,4497.0,2024.0,Single Family Residential,84655.0
-676900.0,4.0,3.0,2757.0,2024.0,Single Family Residential,84655.0
-696900.0,5.0,3.0,2960.0,2024.0,Single Family Residential,84655.0
-605900.0,3.0,2.0,1846.0,2024.0,Single Family Residential,84655.0
-646900.0,4.0,2.5,2129.0,2024.0,Single Family Residential,84655.0
-1275000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
+750000.0,4.0,3.0,2753.0,2012.0,Single Family Residential,84655.0
+749990.0,4.0,2.5,4497.0,2012.0,Single Family Residential,84655.0
+676900.0,4.0,3.0,2757.0,2012.0,Single Family Residential,84655.0
+696900.0,5.0,3.0,2960.0,2012.0,Single Family Residential,84655.0
+605900.0,3.0,2.0,1846.0,2012.0,Single Family Residential,84655.0
+646900.0,4.0,2.5,2129.0,2012.0,Single Family Residential,84655.0
+895000.0,5.0,3.0,4099.0,2006.0,Single Family Residential,84655.0
+1275000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
 1195000.0,5.0,3.5,4005.0,2022.0,Single Family Residential,84655.0
-1304400.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-3500000.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-3107135.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
+1304400.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+3500000.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+3107135.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
 4250000.0,8.0,4.0,7499.0,2012.0,Single Family Residential,84655.0
-4999999.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-3062400.0,3.0,2.5,2757.0,2024.0,Vacant Land,84655.0
-275000.0,3.0,2.0,1997.0,1956.0,Single Family Residential,71075.0
+4999999.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+3062400.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
 145000.0,4.0,2.0,1568.0,2021.0,Single Family Residential,71071.0
 174900.0,3.0,2.0,1700.0,1975.0,Single Family Residential,71071.0
 95000.0,4.0,2.0,2418.0,1955.0,Single Family Residential,71071.0
+99900.0,2.0,1.0,1120.0,1975.0,Mobile/Manufactured Home,71071.0
 130000.0,2.0,1.0,942.0,1982.0,Single Family Residential,71071.0
 120000.0,4.0,2.0,1920.0,2011.0,Mobile/Manufactured Home,71071.0
-40000.0,3.0,2.5,2757.0,2024.0,Vacant Land,71021.0
-25000.0,3.0,2.5,2757.0,2024.0,Vacant Land,71071.0
-320000.0,3.0,2.5,2757.0,2024.0,Vacant Land,71071.0
-10000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-25000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-75000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-295000.0,3.0,2.0,1776.0,2003.0,Single Family Residential,47579.0
-5500.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-6500.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
+40000.0,3.0,2.0,2187.0,2012.0,Vacant Land,71021.0
+25000.0,3.0,2.0,2187.0,2012.0,Vacant Land,71071.0
+275000.0,3.0,2.0,1997.0,1956.0,Single Family Residential,71075.0
+25000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+75000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+5500.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+6500.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
 199000.0,2.0,1.5,1152.0,1996.0,Single Family Residential,47579.0
-15000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-299900.0,3.0,2.5,2342.0,2002.0,Single Family Residential,47579.0
-70000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-10900.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-5000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-11900.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-5000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-10500.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-14500.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-6000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
+15000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+70000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+10900.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+5000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+11900.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+5000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+10500.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+6000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+240000.0,3.0,2.0,1388.0,2001.0,Single Family Residential,47579.0
+285000.0,3.0,2.0,1355.0,2024.0,Single Family Residential,47579.0
 395000.0,4.0,4.0,2521.0,1990.0,Single Family Residential,47579.0
-310000.0,3.0,3.0,2900.0,1977.0,Single Family Residential,47579.0
+299900.0,3.0,3.0,2900.0,1977.0,Single Family Residential,47579.0
 389900.0,2.0,2.0,3120.0,2014.0,Single Family Residential,47579.0
+295000.0,3.0,2.0,1776.0,2003.0,Single Family Residential,47579.0
 324500.0,3.0,2.5,2186.0,1979.0,Single Family Residential,47579.0
-409000.0,4.0,2.5,2598.0,1969.0,Single Family Residential,47579.0
-700000.0,3.0,2.5,2757.0,2024.0,Vacant Land,47579.0
-114500.0,3.0,2.5,2757.0,2024.0,Vacant Land,77476.0
-165000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
-120000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
-75000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
-85000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
-99000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77476.0
-175000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
-125000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77485.0
+399900.0,4.0,2.5,2598.0,1969.0,Single Family Residential,47579.0
+700000.0,3.0,2.0,2187.0,2012.0,Vacant Land,47579.0
+114500.0,3.0,2.0,2187.0,2012.0,Vacant Land,77476.0
+165000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+120000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+75000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+85000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+99000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77476.0
+175000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+125000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77485.0
+595000.0,4.0,3.5,2650.0,2018.0,Single Family Residential,77485.0
 475000.0,4.0,2.5,2481.0,1998.0,Single Family Residential,77485.0
-479999.0,4.0,3.0,3824.0,1982.0,Single Family Residential,77485.0
 480000.0,4.0,3.0,2200.0,1972.0,Single Family Residential,77485.0
 753999.0,4.0,3.0,4055.0,2002.0,Single Family Residential,77476.0
 632000.0,4.0,3.5,3565.0,2017.0,Single Family Residential,77476.0
 1300000.0,4.0,2.5,1566.0,1950.0,Single Family Residential,77476.0
-1300000.0,3.0,2.5,2757.0,2024.0,Vacant Land,77476.0
+1300000.0,3.0,2.0,2187.0,2012.0,Vacant Land,77476.0
+35000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+94000.0,2.0,2.0,1245.0,1982.0,Single Family Residential,31082.0
+190000.0,3.0,1.5,1630.0,1965.0,Single Family Residential,31082.0
+79900.0,2.0,1.0,904.0,1960.0,Single Family Residential,31082.0
+90000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+106000.0,3.0,1.5,1728.0,1955.0,Single Family Residential,31082.0
+199900.0,3.0,2.0,1792.0,2002.0,Single Family Residential,31082.0
+99652.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+47000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+62500.0,4.0,2.0,1716.0,1980.0,Single Family Residential,31082.0
+21500.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+10000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+105000.0,3.0,1.0,948.0,1954.0,Single Family Residential,31082.0
+199000.0,3.0,1.0,1438.0,1950.0,Single Family Residential,31082.0
+10000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+15000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+20000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+120000.0,3.0,2.0,1200.0,2000.0,Single Family Residential,31082.0
+85000.0,3.0,2.0,1485.0,1925.0,Single Family Residential,31082.0
+330000.0,2.0,2.5,2417.0,2023.0,Single Family Residential,31082.0
+225000.0,4.0,2.0,1848.0,2000.0,Single Family Residential,31082.0
+245000.0,4.0,2.0,2208.0,1908.0,Single Family Residential,31082.0
+320000.0,4.0,2.0,2626.0,1987.0,Single Family Residential,31082.0
+334000.0,5.0,3.0,3452.0,1992.0,Single Family Residential,31082.0
+249000.0,3.0,2.0,1371.0,2024.0,Single Family Residential,31082.0
+249000.0,3.0,2.0,1371.0,2024.0,Single Family Residential,31082.0
+239000.0,2.0,1.0,768.0,2023.0,Single Family Residential,31082.0
+525000.0,3.0,4.0,4208.0,1912.0,Single Family Residential,31094.0
+525000.0,3.0,4.0,3344.0,1912.0,Single Family Residential,31082.0
+599000.0,4.0,2.0,1923.0,2009.0,Single Family Residential,31082.0
+542025.0,3.0,2.0,2187.0,2012.0,Vacant Land,31018.0
+799000.0,3.0,2.0,2187.0,2012.0,Vacant Land,31082.0
+160000.0,3.0,1.0,1120.0,1950.0,Single Family Residential,29301.0
+59000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+29900.0,3.0,2.0,2187.0,2012.0,Vacant Land,29302.0
+65000.0,3.0,1.0,1000.0,1964.0,Single Family Residential,29307.0
+129900.0,4.0,2.0,1502.0,1900.0,Single Family Residential,29329.0
+25000.0,0.0,2.0,600.0,2012.0,Single Family Residential,29306.0
+199900.0,3.0,2.0,1400.0,1930.0,Single Family Residential,29302.0
+199900.0,3.0,1.0,1000.0,2012.0,Single Family Residential,29306.0
+199900.0,2.0,2.0,1702.0,1888.0,Single Family Residential,29301.0
+150000.0,2.0,1.0,968.0,1950.0,Single Family Residential,29303.0
+29500.0,3.0,1.0,2187.0,2012.0,Vacant Land,29307.0
+185000.0,2.0,2.0,700.0,2012.0,Single Family Residential,29301.0
+134900.0,2.0,1.0,1160.0,1907.0,Single Family Residential,29303.0
+185000.0,3.0,2.0,1200.0,1979.0,Single Family Residential,29302.0
+125500.0,2.0,1.5,868.0,1968.0,Condo/Co-op,29301.0
+175000.0,2.0,1.0,1110.0,1900.0,Single Family Residential,29302.0
+164900.0,2.0,2.0,1000.0,2012.0,Townhouse,29302.0
+190900.0,2.0,2.0,1608.0,1970.0,Single Family Residential,29303.0
+182500.0,3.0,2.5,1320.0,1988.0,Townhouse,29307.0
+199900.0,3.0,5.0,2187.0,2012.0,Vacant Land,29303.0
+149500.0,2.0,1.0,939.0,1940.0,Single Family Residential,84655.0
+174999.0,2.0,1.0,1000.0,1948.0,Single Family Residential,29307.0
+159000.0,2.0,2.0,1152.0,2002.0,Townhouse,84655.0
+95000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+164900.0,2.0,2.0,1152.0,2001.0,Townhouse,29307.0
+199000.0,3.0,2.0,1482.0,1970.0,Ranch,29303.0
+169900.0,2.0,1.0,999.0,1900.0,Single Family Residential,29306.0
+175000.0,4.0,2.0,1200.0,2012.0,Single Family Residential,29301.0
+146950.0,5.0,2.0,1800.0,2012.0,Single Family Residential,29306.0
+136900.0,3.0,2.0,1260.0,1995.0,Mobile/Manufactured Home,29303.0
+115000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+79900.0,3.0,1.0,2187.0,2012.0,Vacant Land,29301.0
+195000.0,3.0,2.5,1200.0,2012.0,Townhouse,29307.0
+195000.0,3.0,2.5,1200.0,2012.0,Townhouse,29307.0
+195000.0,3.0,2.5,1200.0,2012.0,Townhouse,29307.0
+182500.0,2.0,2.0,1000.0,2012.0,Single Family Residential,29306.0
+161000.0,2.0,2.0,1000.0,2012.0,Townhouse,84655.0
+48000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29306.0
+159000.0,4.0,1.5,2000.0,1890.0,Single Family Residential,29301.0
+115000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+179999.0,3.0,1.0,1000.0,2012.0,Single Family Residential,29306.0
+149900.0,3.0,1.0,864.0,1962.0,Single Family Residential,29306.0
+120000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+135000.0,3.0,1.5,1000.0,1972.0,Single Family Residential,29306.0
+199900.0,3.0,2.0,1179.0,2024.0,Ranch,29306.0
+20000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+165000.0,4.0,1.0,1000.0,1970.0,Single Family Residential,29301.0
+165000.0,3.0,1.5,1551.0,1940.0,Single Family Residential,29303.0
+104900.0,3.0,2.0,2187.0,2012.0,Vacant Land,84655.0
+29000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29306.0
+179900.0,2.0,1.0,1000.0,1946.0,Single Family Residential,29301.0
+194900.0,4.0,4.5,1400.0,2012.0,Single Family Residential,29330.0
+150000.0,2.0,2.0,1000.0,2012.0,Other,29307.0
+194900.0,4.0,4.5,1450.0,2009.0,Ranch,29330.0
+119500.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+159869.0,2.0,1.0,768.0,1960.0,Single Family Residential,29306.0
+199900.0,3.0,2.5,1319.0,1900.0,Single Family Residential,29307.0
+194000.0,2.0,1.0,1000.0,2012.0,Single Family Residential,29303.0
+179900.0,2.0,2.0,1092.0,1994.0,Townhouse,29307.0
+189900.0,3.0,2.0,1200.0,2012.0,Townhouse,29301.0
+159900.0,2.0,1.5,1000.0,2012.0,Townhouse,29307.0
+13000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29303.0
+149900.0,2.0,2.0,1156.0,1973.0,Condo/Co-op,29307.0
+25000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+23000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+150000.0,4.0,2.5,2000.0,2012.0,Single Family Residential,29306.0
+90000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29302.0
+125000.0,3.0,4.0,2187.0,2012.0,Vacant Land,29307.0
+85000.0,3.0,1.0,2187.0,2012.0,Vacant Land,29307.0
+165000.0,3.0,1.0,1400.0,1940.0,Single Family Residential,29303.0
+98000.0,2.0,1.0,600.0,2012.0,Condo/Co-op,29303.0
+44900.0,3.0,2.0,2187.0,2012.0,Vacant Land,29302.0
+98000.0,2.0,1.0,693.0,1983.0,Condo/Co-op,29303.0
+195000.0,4.0,2.0,1200.0,1950.0,Single Family Residential,29303.0
+20000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+20000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+134988.0,3.0,1.0,700.0,2012.0,Single Family Residential,29306.0
+59000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+3500.0,3.0,2.0,2187.0,2012.0,Vacant Land,29306.0
+179000.0,2.0,1.0,1028.0,1949.0,Single Family Residential,29303.0
+49000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29307.0
+65000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29306.0
+164000.0,3.0,2.0,1200.0,2012.0,Mobile/Manufactured Home,29307.0
+65000.0,3.0,1.0,2187.0,2012.0,Vacant Land,29307.0
+139900.0,3.0,2.0,2187.0,2012.0,Vacant Land,29306.0
+130000.0,2.0,1.0,600.0,2012.0,Single Family Residential,29306.0
+139900.0,3.0,2.5,1403.0,1968.0,Condo/Co-op,29301.0
+169900.0,2.0,1.5,1077.0,1985.0,Townhouse,29301.0
+169000.0,2.0,1.0,842.0,1942.0,Single Family Residential,84655.0
+134999.0,2.0,1.0,640.0,1965.0,Single Family Residential,29307.0
+75000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29367.0
+119000.0,2.0,1.0,640.0,1950.0,Ranch,29303.0
+163000.0,3.0,1.0,1000.0,2012.0,Single Family Residential,29303.0
+149900.0,3.0,1.5,1177.0,1930.0,Single Family Residential,29306.0
+44000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+175000.0,4.0,1.5,1398.0,1959.0,Ranch,29301.0
+189900.0,3.0,2.0,1506.0,1959.0,Ranch,29302.0
+289900.0,4.0,2.0,2209.0,1946.0,Single Family Residential,29301.0
+279900.0,3.0,2.5,1499.0,2023.0,Townhouse,84655.0
+268900.0,3.0,2.0,1600.0,2023.0,Mobile/Manufactured Home,29302.0
+295000.0,3.0,2.5,1600.0,1930.0,Single Family Residential,29306.0
+225000.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29306.0
+255000.0,3.0,2.0,1360.0,2006.0,Single Family Residential,29301.0
+399900.0,3.0,2.0,1800.0,2017.0,Single Family Residential,29301.0
+220000.0,3.0,2.5,1600.0,1986.0,Townhouse,29307.0
+344990.0,4.0,2.5,2000.0,2024.0,Single Family Residential,29307.0
+384900.0,3.0,2.0,1600.0,2012.0,Single Family Residential,29303.0
+384900.0,3.0,2.0,1780.0,2024.0,Single Family Residential,29303.0
+229900.0,3.0,2.0,1400.0,1976.0,Ranch,29303.0
+377990.0,4.0,3.0,2800.0,2024.0,Single Family Residential,29303.0
+237000.0,3.0,2.0,1264.0,2024.0,Ranch,29302.0
+375000.0,4.0,4.5,2600.0,2012.0,Single Family Residential,29302.0
+243190.0,3.0,2.5,1417.0,2024.0,Townhouse,29306.0
+242490.0,3.0,2.5,1417.0,2024.0,Townhouse,29306.0
+243190.0,3.0,2.5,1417.0,2024.0,Townhouse,29306.0
+243190.0,3.0,2.5,1417.0,2024.0,Townhouse,29306.0
+249590.0,3.0,2.5,1417.0,2024.0,Townhouse,29306.0
+349900.0,3.0,2.5,2400.0,2022.0,Single Family Residential,29369.0
+384900.0,3.0,2.0,1600.0,2012.0,Single Family Residential,29303.0
+384900.0,3.0,2.0,1780.0,2024.0,Single Family Residential,29303.0
+225000.0,2.0,2.0,1000.0,2024.0,Single Family Residential,29306.0
+225000.0,3.0,2.0,1200.0,2002.0,Single Family Residential,29306.0
+235000.0,3.0,2.5,1556.0,2019.0,Townhouse,29301.0
+210000.0,3.0,1.0,1000.0,2012.0,Single Family Residential,29306.0
+314900.0,4.0,2.5,2674.0,2023.0,Single Family Residential,29301.0
+225000.0,3.0,2.0,1040.0,1984.0,Mobile/Manufactured Home,29302.0
+225000.0,3.0,2.0,2000.0,1973.0,Single Family Residential,29303.0
+237000.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29302.0
+232000.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29302.0
+229000.0,4.0,3.0,2243.0,1951.0,Ranch,29302.0
+220000.0,3.0,2.0,1450.0,1958.0,Single Family Residential,29302.0
+249900.0,3.0,2.5,1600.0,2024.0,Single Family Residential,29302.0
+220000.0,3.0,1.0,1200.0,2012.0,Single Family Residential,29303.0
+329900.0,4.0,2.5,2516.0,1999.0,Single Family Residential,29301.0
+205000.0,2.0,1.0,917.0,1910.0,Single Family Residential,29302.0
+250000.0,3.0,1.0,1284.0,1948.0,Single Family Residential,29302.0
+205000.0,2.0,1.0,945.0,1948.0,Single Family Residential,29302.0
+274965.0,4.0,2.5,2000.0,2024.0,Single Family Residential,29303.0
+259900.0,3.0,2.5,1400.0,2022.0,Other,29307.0
+300000.0,4.0,2.5,2202.0,1972.0,Ranch,29302.0
+274135.0,4.0,2.5,2000.0,2024.0,Single Family Residential,29303.0
+249900.0,3.0,2.5,1600.0,2024.0,Single Family Residential,29302.0
+309000.0,4.0,2.5,1800.0,2024.0,Single Family Residential,29307.0
+309000.0,4.0,2.5,1800.0,2024.0,Single Family Residential,29307.0
+299900.0,4.0,2.0,2354.0,1980.0,Single Family Residential,29303.0
+259900.0,3.0,2.0,1600.0,1920.0,Single Family Residential,29303.0
+264900.0,3.0,2.0,1321.0,2023.0,Single Family Residential,29302.0
+210000.0,3.0,2.0,1200.0,1976.0,Single Family Residential,29306.0
+232000.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29302.0
+280000.0,3.0,2.0,1400.0,2012.0,Single Family Residential,29306.0
+229000.0,3.0,2.5,1400.0,2022.0,Townhouse,29307.0
+319500.0,4.0,2.5,2600.0,2010.0,Single Family Residential,84655.0
+384900.0,3.0,2.0,1600.0,2012.0,Single Family Residential,29303.0
+384900.0,3.0,2.0,1780.0,2024.0,Single Family Residential,29303.0
+308000.0,4.0,2.5,2000.0,1973.0,Single Family Residential,29307.0
+308000.0,5.0,3.0,2000.0,2024.0,Single Family Residential,29301.0
+308000.0,5.0,3.0,2166.0,2024.0,Single Family Residential,29301.0
+324900.0,3.0,2.5,2135.0,1992.0,Single Family Residential,29301.0
+360000.0,2.0,2.5,1540.0,2002.0,Single Family Residential,29307.0
+320000.0,3.0,2.0,2053.0,1979.0,Single Family Residential,29307.0
+270000.0,3.0,2.0,1400.0,1991.0,Single Family Residential,20307.0
+274900.0,4.0,2.0,2016.0,2012.0,Multi-Family (2-4 Unit),29302.0
+249900.0,3.0,2.0,1390.0,2000.0,Ranch,29303.0
+275000.0,4.0,3.0,2800.0,2012.0,Single Family Residential,29303.0
+394820.0,4.0,2.5,3000.0,2024.0,Single Family Residential,29307.0
+335000.0,4.0,3.0,2800.0,2012.0,Single Family Residential,29307.0
+215000.0,3.0,2.0,1264.0,1958.0,Ranch,29303.0
+235000.0,4.0,2.0,1749.0,1959.0,Multi-Family (2-4 Unit),29301.0
+379500.0,3.0,2.0,2358.0,1964.0,Ranch,29307.0
+269900.0,4.0,2.0,2016.0,2004.0,Multi-Family (2-4 Unit),29302.0
+210000.0,3.0,2.5,1200.0,2012.0,Single Family Residential,29303.0
+254900.0,3.0,2.0,1717.0,1969.0,Ranch,29301.0
+289900.0,3.0,2.0,1883.0,1976.0,Ranch,29307.0
+355000.0,4.0,2.5,1925.0,2002.0,Single Family Residential,29301.0
+321021.0,5.0,3.5,2645.0,2025.0,Single Family Residential,29320.0
+321021.0,5.0,3.5,2600.0,2024.0,Single Family Residential,29320.0
+369900.0,3.0,2.0,1811.0,1925.0,Single Family Residential,29302.0
+264900.0,2.0,2.5,1200.0,2023.0,Townhouse,29303.0
+214900.0,3.0,2.0,1100.0,2024.0,Single Family Residential,29303.0
+385000.0,6.0,3.0,3104.0,2024.0,Multi-Family (2-4 Unit),29301.0
+241900.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29301.0
+210000.0,3.0,2.0,1400.0,2012.0,Single Family Residential,29301.0
+250000.0,3.0,2.0,1800.0,2012.0,Single Family Residential,29302.0
+324900.0,4.0,3.0,3104.0,1965.0,Ranch,29301.0
+209500.0,3.0,2.0,1236.0,2025.0,Ranch,29301.0
+264900.0,3.0,2.5,1306.0,1989.0,Single Family Residential,29307.0
+350000.0,3.0,2.5,2000.0,2012.0,Single Family Residential,29301.0
+213000.0,3.0,2.0,1400.0,2012.0,Single Family Residential,29306.0
+320000.0,4.0,2.0,2600.0,1970.0,Single Family Residential,29307.0
+333000.0,3.0,2.5,2200.0,2012.0,Single Family Residential,29303.0
+210000.0,3.0,1.0,1047.0,1955.0,Single Family Residential,29306.0
+232000.0,3.0,2.0,1200.0,2024.0,Single Family Residential,29302.0
+365000.0,7.0,3.0,2816.0,1966.0,Single Family Residential,29307.0
+285000.0,5.0,2.5,2000.0,2012.0,Single Family Residential,29303.0
+235000.0,3.0,2.0,1304.0,2017.0,Ranch,29393.0
+414990.0,4.0,3.5,2600.0,2024.0,Single Family Residential,29303.0
+525000.0,5.0,4.0,2800.0,2012.0,Single Family Residential,29301.0
+439500.0,4.0,3.5,2065.0,2024.0,Single Family Residential,29307.0
+468000.0,4.0,3.0,2341.0,2024.0,Single Family Residential,29307.0
+475000.0,5.0,3.0,3470.0,1966.0,Single Family Residential,29307.0
+439900.0,4.0,3.5,2594.0,1989.0,Single Family Residential,29302.0
+525000.0,4.0,2.5,2687.0,1987.0,Single Family Residential,29301.0
+459000.0,4.0,3.0,3026.0,1971.0,Single Family Residential,29307.0
+450000.0,3.0,4.0,2800.0,1966.0,Single Family Residential,29307.0
+414900.0,4.0,2.5,2600.0,2006.0,Single Family Residential,29301.0
+470000.0,5.0,3.5,3000.0,2012.0,Single Family Residential,29307.0
+449900.0,3.0,2.5,2800.0,1960.0,Single Family Residential,29307.0
+475000.0,5.0,3.0,3723.0,1967.0,Ranch,29307.0
+579000.0,5.0,3.0,3774.0,2000.0,Single Family Residential,29307.0
+414500.0,4.0,3.0,2200.0,1940.0,Single Family Residential,29302.0
+545000.0,4.0,3.0,3242.0,1956.0,Ranch,29307.0
+414500.0,4.0,3.0,2200.0,2024.0,Single Family Residential,29302.0
+595500.0,3.0,3.0,3000.0,2006.0,Single Family Residential,29301.0
+430000.0,5.0,3.0,2295.0,1984.0,Single Family Residential,29301.0
+445000.0,3.0,2.5,2000.0,1925.0,Single Family Residential,29302.0
+419000.0,3.0,2.0,1680.0,1932.0,Single Family Residential,29302.0
+449900.0,5.0,3.0,3800.0,1976.0,Single Family Residential,29307.0
+420000.0,4.0,2.5,2580.0,1981.0,Single Family Residential,84655.0
+599900.0,4.0,3.5,2600.0,1997.0,Single Family Residential,29301.0
+548000.0,6.0,3.0,4000.0,1972.0,Single Family Residential,29307.0
+449000.0,4.0,3.5,2800.0,2012.0,Single Family Residential,29301.0
+520000.0,4.0,3.5,3400.0,2012.0,Single Family Residential,29301.0
+488000.0,4.0,2.5,2800.0,1988.0,Single Family Residential,29301.0
+449000.0,6.0,2.0,3014.0,2024.0,Multi-Family (2-4 Unit),29303.0
+525000.0,8.0,5.0,3712.0,2024.0,Multi-Family (2-4 Unit),29369.0
+529000.0,4.0,3.5,1840.0,2023.0,Townhouse,29302.0
+550000.0,4.0,3.5,2600.0,1937.0,Single Family Residential,29302.0
+435000.0,3.0,3.0,1946.0,1957.0,Ranch,29307.0
+425900.0,3.0,2.0,2844.0,1986.0,Single Family Residential,29307.0
+464999.0,4.0,2.5,2756.0,2024.0,Single Family Residential,29306.0
+424999.0,4.0,2.0,3082.0,2012.0,Single Family Residential,29306.0
+519999.0,4.0,3.0,3765.0,2012.0,Single Family Residential,29306.0
+499999.0,4.0,2.0,3330.0,2012.0,Single Family Residential,29306.0
+539999.0,4.0,4.0,4165.0,2012.0,Single Family Residential,29306.0
+449999.0,3.0,2.0,2185.0,2012.0,Single Family Residential,29306.0
+409999.0,3.0,2.0,2756.0,2012.0,Single Family Residential,29306.0
+649900.0,4.0,2.5,3245.0,1978.0,Single Family Residential,29302.0
+725000.0,5.0,4.5,4200.0,1990.0,Single Family Residential,29369.0
+695900.0,4.0,3.5,3600.0,2012.0,Single Family Residential,29301.0
+720000.0,4.0,3.5,3400.0,1991.0,Single Family Residential,29369.0
+765000.0,5.0,3.5,3800.0,1995.0,Single Family Residential,29306.0
+665000.0,5.0,4.0,3000.0,2024.0,Single Family Residential,29307.0
+745000.0,5.0,3.5,3600.0,1965.0,Single Family Residential,29302.0
+720000.0,5.0,4.0,3600.0,1993.0,Single Family Residential,29301.0
+710000.0,5.0,4.5,2838.0,2024.0,Single Family Residential,29302.0
+710000.0,5.0,4.5,2800.0,2012.0,Single Family Residential,29302.0
+629000.0,4.0,2.5,3000.0,1990.0,Single Family Residential,29301.0
+685000.0,4.0,3.5,2600.0,2024.0,Single Family Residential,29302.0
+685000.0,4.0,3.5,2600.0,2012.0,Single Family Residential,29302.0
+749900.0,4.0,3.5,3701.0,1985.0,Single Family Residential,29306.0
+698500.0,4.0,3.0,3800.0,2000.0,Single Family Residential,29301.0
+749000.0,4.0,3.5,2800.0,2012.0,Single Family Residential,29307.0
+615999.0,5.0,4.0,3765.0,2024.0,Single Family Residential,29306.0
+613999.0,4.0,4.0,4165.0,2024.0,Single Family Residential,29306.0
+824900.0,4.0,4.5,3750.0,2017.0,Single Family Residential,29301.0
+995000.0,4.0,3.5,3939.0,2024.0,Single Family Residential,29302.0
+895000.0,3.0,2.0,2187.0,2012.0,Vacant Land,29301.0
+895000.0,3.0,6.0,2187.0,2012.0,Vacant Land,29301.0
+875000.0,2.0,1.0,1200.0,2012.0,Single Family Residential,29302.0
+845000.0,4.0,2.5,2555.0,2001.0,Ranch,29302.0
+889900.0,4.0,4.5,4729.0,2000.0,Single Family Residential,29306.0
+945000.0,5.0,4.5,5000.0,1998.0,Single Family Residential,29306.0
+964000.0,5.0,5.0,4679.0,2008.0,Single Family Residential,29306.0
+849000.0,3.0,3.0,2187.0,2012.0,Vacant Land,29301.0
+952000.0,3.0,7.0,2187.0,2012.0,Vacant Land,29306.0
+1375000.0,4.0,2.5,5400.0,2012.0,Single Family Residential,29302.0
+1050000.0,4.0,3.5,4200.0,2012.0,Single Family Residential,29302.0
+1400000.0,4.0,4.0,5200.0,1972.0,Single Family Residential,29307.0
+1245000.0,2.0,2.0,2730.0,2022.0,Single Family Residential,29306.0
+1809560.0,3.0,6.0,2187.0,2012.0,Vacant Land,29301.0
+3000000.0,3.0,2.0,2187.0,1938.0,Multi-Family (2-4 Unit),29303.0
+4500000.0,5.0,6.5,7000.0,1996.0,Single Family Residential,29307.0
+67000.0,2.0,1.0,1280.0,1940.0,Single Family Residential,78159.0
+129500.0,2.0,2.0,1368.0,1947.0,Single Family Residential,78159.0
+2530050.0,3.0,2.0,2187.0,2012.0,Vacant Land,78159.0
+42999.0,3.0,2.0,2187.0,2012.0,Vacant Land,98106.0
+58000.0,1.0,1.0,580.0,2012.0,Condo/Co-op,98118.0
+92000.0,3.0,2.0,1000.0,2012.0,Condo/Co-op,98118.0
+80000.0,2.0,2.0,800.0,2012.0,Condo/Co-op,98118.0
+2250000.0,5.0,4.5,3469.0,2024.0,Single Family Residential,98117.0
+2795000.0,4.0,3.5,3200.0,2024.0,Single Family Residential,98119.0
+4053777.0,3.0,3.0,2095.0,2012.0,Single Family Residential,98101.0
+999900.0,3.0,2.0,2254.0,2024.0,Single Family Residential,98388.0
+1159900.0,4.0,4.5,3650.0,2024.0,Single Family Residential,98388.0
+1195900.0,4.0,3.5,3756.0,2012.0,Single Family Residential,98388.0
